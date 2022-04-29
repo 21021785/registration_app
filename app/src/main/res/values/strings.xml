@@ -3,4 +3,13 @@
     <string name="input_your_details">Input your details to get started:</string>
     <string name="welcome">Welcome to Adventure Learning Club!</string>
     <string name="registration">Registration Form</string>
+    <string name="full_name">Full Name:</string>
+    <string name="student_id">Student ID:</string>
+    <string name="school">School:</string>
+    <string name="gender">Gender:</string>
+    <string name="mobile_number">Mobile Number:</string>
+    <string name="email">Email:</string>
+    <string name="date_of_birth">Date of Birth:</string>
+    <string name="register_now">Register Now!</string>
+    <string name="end_message">We hope you enjoy your time in Adventure Learning Club!</string>
 </resources>
